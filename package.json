@@ -22,7 +22,7 @@
     "bunyan-middleware": "1.0.2",
     "codeowners-utils": "^1.0.2",
     "debug": "^4.4.3",
-    "dotenv": "^17.3.1",
+    "dotenv": "^17.4.2",
     "events-async": "^1.2.1",
     "express": "^5.2.1",
     "glob": "13.0.6"
@@ -30,7 +30,7 @@
   "devDependencies": {
     "eventsource": "^4.1.0",
     "fetch-mock": "^12.6.0",
-    "nock": "^14.0.11",
+    "nock": "^14.0.15",
     "nodemon": "^3.1.14",
     "standard": "^17.1.2",
     "supertest": "^7.2.2"
